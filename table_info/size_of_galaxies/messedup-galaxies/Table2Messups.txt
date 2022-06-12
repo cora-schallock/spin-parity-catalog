@@ -1,0 +1,14 @@
+#Circinus Galaxy: (missing?)
+#NGC224:(doesn't match one in paper)
+#NGC247: (bottom cut off)
+#NGC253: (very cutoff, but z band not bad)
+NGC1097:1200(veryshoppy in g at large scale, but close up looks ok)
+#NGC1386:(missing)  #ESSO
+#NGC1532:(missing) #ESSO
+#NGC1566:(missing) #ESSO
+#NGC3031:3000 (doesn't match)? #ESSO
+NGC3198: 1400 g and r have some choppiness
+#NGC4622:missing
+#NGC5236:2000 (very streky)
+NGC6503:1000 (g is a bit choppy)
+#galaxies without '#' have been added back
