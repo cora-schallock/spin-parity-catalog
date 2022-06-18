@@ -90,6 +90,7 @@ def retrieve_info_for_galaxy(galaxy_name,pixel_size=240):
     try:
         #url = BASE_URL.format(galaxy_name,pixel_size)
         gal_name = galaxy_name.replace(' ','+') #to take care of space in name
+        gal_name = gal_name.replace('+','%2B') #for + sign i.e. IRAS03056+2034
         url = BASE_URL.format(gal_name,pixel_size)
         
         if is_valid_url(url):
