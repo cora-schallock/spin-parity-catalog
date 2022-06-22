@@ -5,7 +5,7 @@ A collection of galaxies from the paper: Spin Parity of Spiral Galaxies. I. Corr
 Table 2: 135/ 146 galaxies
 - NGC598 Is too large of a file size for github
 
-Table #3:
+Table #3: 303/ 321 galaxies
 
 Table #4:
 
