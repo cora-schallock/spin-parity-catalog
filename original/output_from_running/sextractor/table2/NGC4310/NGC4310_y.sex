@@ -1,0 +1,11 @@
+#   1 XWIN_IMAGE             Windowed position estimate along x                         [pixel]
+#   2 YWIN_IMAGE             Windowed position estimate along y                         [pixel]
+#   3 MAG_BEST               Best of MAG_AUTO and MAG_ISOCOR                            [mag]
+#   4 CLASS_STAR             S/G classifier output                                     
+#   5 A_IMAGE                Profile RMS along major axis                               [pixel]
+#   6 B_IMAGE                Profile RMS along minor axis                               [pixel]
+#   7 THETA_IMAGE            Position angle (CCW/x)                                     [deg]
+   153.3695    143.4151 -20.4012  0.001    43.980    19.796  69.27
+   282.1448     70.5436 -11.3802  0.482     0.985     0.688  29.04
+   299.3611    285.9699 -13.3322  0.871     1.935     1.120 -88.79
+   212.0899    286.8969 -13.0220  0.614     1.500     1.384  40.38
